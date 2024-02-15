@@ -1,4 +1,4 @@
-# Time-Kit ⏱️
+# K-Time-Kit ⏱️
 
 This project is a Python implementation of the Duration class, which represents a duration of time in years, days, hours, minutes, and seconds. It allows you to easily manipulate durations of time with arithmetic operations, conversions, and comparisons.
 
