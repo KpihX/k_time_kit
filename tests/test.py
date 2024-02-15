@@ -1,5 +1,5 @@
 import unittest
-from time_kit.duration import Duration
+from k_time_kit.duration import Duration
 
 class TestDuration(unittest.TestCase):
     def test_duration_addition(self):

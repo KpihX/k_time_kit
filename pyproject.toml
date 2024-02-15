@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "time_kit"
+name = "k_time_kit"
 version = "0.0.1"
 authors = [
     {name="KpihX", email="kapoivha@gmail.com"}
@@ -25,6 +25,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sampleproject"
-Issues = "https://github.com/pypa/sammpleproject/issues"
-Repository = "https://github.com/me/spam.git"
+Homepage = "https://pypi.org/project/k-time-kit/0.0.1/"
+Issues = "https://github.com/KpihX/k_time_kit/issues"
+Repository = "https://github.com/KpihX/k_time_kit.git"
